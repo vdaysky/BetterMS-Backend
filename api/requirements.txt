@@ -1,0 +1,10 @@
+uvicorn
+git+ssh://git@github.com/vdaysky/blazelink.git
+fastapi
+psycopg2
+sqlmodel
+python-dotenv
+aiohttp
+pytz
+websockets
+pyTelegramBotAPI
